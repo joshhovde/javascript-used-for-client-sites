@@ -1,0 +1,8 @@
+jQuery(function($) 
+{
+    $('#fl-accordion-5bc7a5182fc01-tab-0').click(function ()
+    {
+        $('.fl-photo-img.wp-image-2262.size-thumbnail').toggleClass("grow");
+    });
+    
+});
