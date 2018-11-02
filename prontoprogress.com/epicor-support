@@ -1,8 +1,44 @@
 jQuery(function($) 
 {
+    $('#fl-accordion-5bdcbb53b75bf-tab-0').click(function ()
+    {
+        $('.wp-image-2544').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5bd9e6909a616-tab-0').click(function ()
+    {
+        $('.wp-image-2510').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
     $('#fl-accordion-5bc7a5182fc01-tab-0').click(function ()
     {
-        $('.fl-photo-img.wp-image-2262.size-thumbnail').toggleClass("grow");
+        $('.wp-image-2511').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5bd9e1eeb368a-tab-0').click(function ()
+    {
+        $('.wp-image-2494').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5bdcc3a89627a-tab-0').click(function ()
+    {
+        $('.wp-image-2565').toggleClass("grow");
     });
     
 });
