@@ -27,6 +27,15 @@ jQuery(function($)
 
 jQuery(function($) 
 {
+    $('#fl-accordion-5be5cb6ea67a2-tab-0').click(function ()
+    {
+        $('.wp-image-2634').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
     $('#fl-accordion-5bd9e1eeb368a-tab-0').click(function ()
     {
         $('.wp-image-2494').toggleClass("grow");
