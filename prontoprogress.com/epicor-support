@@ -1,4 +1,5 @@
-/* EPICOR and Early versions of Vantage and Vista */
+/* EPICOR and Early versions of Vantage and Vista 
+Accordion top to bottom =================*/
 jQuery(function($) 
 {
     $('#fl-accordion-5beda5c491d46-tab-0').click(function ()
@@ -69,13 +70,13 @@ jQuery(function($)
     });
     
 });
-/* QAD page
+/* QAD page Accordion top to bottom
 =====================================*/
 jQuery(function($) 
 {
     $('#fl-accordion-5beb4a8ae6a6a-tab-0').click(function ()
     {
-        $('.wp-image-2846').toggleClass("grow");
+        $('.wp-image-2935').toggleClass("grow");
     });
     
 });
@@ -84,7 +85,7 @@ jQuery(function($)
 {
     $('#fl-accordion-5bec8514c4cbf-tab-0').click(function ()
     {
-        $('.wp-image-2852').toggleClass("grow");
+        $('.wp-image-2975').toggleClass("grow");
     });
     
 });
@@ -93,7 +94,25 @@ jQuery(function($)
 {
     $('#fl-accordion-5beca308ee107-tab-0').click(function ()
     {
-        $('.wp-image-2897').toggleClass("grow");
+        $('.wp-image-2957').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5beec764ae91f-tab-0').click(function ()
+    {
+        $('.wp-image-2962').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5beec52478014-tab-0').click(function ()
+    {
+        $('.wp-image-2969').toggleClass("grow");
     });
     
 });
