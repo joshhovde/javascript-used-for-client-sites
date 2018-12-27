@@ -1,3 +1,96 @@
+/* GoForward page
+=====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23d02949f8e-tab-0').click(function ()
+    {
+        $('.wp-image-4335').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23d0294a32c-tab-0').click(function ()
+    {
+        $('.wp-image-4332').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23e03dd867a-tab-0').click(function ()
+    {
+        $('.wp-image-4339').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23e3d036a24-tab-0').click(function ()
+    {
+        $('.wp-image-4343').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23eb6b6d4b8-tab-0').click(function ()
+    {
+        $('.wp-image-4347').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23ec56676dc-tab-0').click(function ()
+    {
+        $('.wp-image-4353').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c23ec8ae2d07-tab-0').click(function ()
+    {
+        $('.wp-image-4364').toggleClass("grow");
+    });
+    
+});
+/* MRO FSO page
+=====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5c018418aad67-tab-0').click(function ()
+    {
+        $('.wp-image-3645').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c0185e273cd7-tab-0').click(function ()
+    {
+        $('.wp-image-3644').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c0185fdc1efd-tab-0').click(function ()
+    {
+        $('.wp-image-3646').toggleClass("grow");
+    });
+    
+});
+
 /* EPICOR and Early versions of Vantage and Vista */
 jQuery(function($) 
 {
@@ -78,37 +171,18 @@ jQuery(function($)
     });
     
 });
-/* MRO FSO page
-=====================================*/
-jQuery(function($) 
-{
-    $('#fl-accordion-5c018418aad67-tab-0').click(function ()
-    {
-        $('.wp-image-3645').toggleClass("grow");
-    });
-    
-});
-
-jQuery(function($) 
-{
-    $('#fl-accordion-5c0185e273cd7-tab-0').click(function ()
-    {
-        $('.wp-image-3644').toggleClass("grow");
-    });
-    
-});
-
-jQuery(function($) 
-{
-    $('#fl-accordion-5c0185fdc1efd-tab-0').click(function ()
-    {
-        $('.wp-image-3646').toggleClass("grow");
-    });
-    
-});
 
 /* QAD page
 =====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5c096b10c7ea3-tab-0').click(function ()
+    {
+        $('.wp-image-3908').toggleClass("grow");
+    });
+    
+});
+
 jQuery(function($) 
 {
     $('#fl-accordion-5beb4a8ae6a6a-tab-0').click(function ()
@@ -117,6 +191,7 @@ jQuery(function($)
     });
     
 });
+
 
 jQuery(function($) 
 {
@@ -150,6 +225,25 @@ jQuery(function($)
     $('#fl-accordion-5beec52478014-tab-0').click(function ()
     {
         $('.wp-image-3746').toggleClass("grow");
+    });
+    
+});
+/* FormTrap page
+================================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5c1bd8bc926f8-tab-0').click(function ()
+    {
+        $('.wp-image-4228').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c1bd8bc9230a-tab-0').click(function ()
+    {
+        $('.wp-image-4231').toggleClass("grow");
     });
     
 });
