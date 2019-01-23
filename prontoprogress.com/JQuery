@@ -228,15 +228,26 @@ jQuery(function($)
     });
     
 });
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c3ccafc6b10d-tab-0').click(function ()
+    {
+        $('.wp-image-4501').toggleClass("grow");
+    });
+    
+});
+
+
 /* FormTrap page
 ================================================*/
 jQuery(function($) 
 {
     $('#fl-accordion-5c1bd8bc926f8-tab-0').click(function ()
     {
-        $('.wp-image-4228').toggleClass("grow");
+        $('.wp-image-4572').toggleClass("grow");
     });
-    
+   
 });
 
 jQuery(function($) 
@@ -244,6 +255,15 @@ jQuery(function($)
     $('#fl-accordion-5c1bd8bc9230a-tab-0').click(function ()
     {
         $('.wp-image-4231').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c48b90deaae9-tab-0').click(function ()
+    {
+        $('.wp-image-4539').toggleClass("grow");
     });
     
 });
