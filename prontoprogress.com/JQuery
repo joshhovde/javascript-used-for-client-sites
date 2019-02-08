@@ -66,9 +66,18 @@ jQuery(function($)
 =====================================*/
 jQuery(function($) 
 {
+    $('#fl-accordion-5c5b3f2b99b3e-tab-0').click(function ()
+    {
+        $('.wp-image-4797').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
     $('#fl-accordion-5c018418aad67-tab-0').click(function ()
     {
-        $('.wp-image-3645').toggleClass("grow");
+        $('.wp-image-4618').toggleClass("grow");
     });
     
 });
@@ -77,7 +86,7 @@ jQuery(function($)
 {
     $('#fl-accordion-5c0185e273cd7-tab-0').click(function ()
     {
-        $('.wp-image-3644').toggleClass("grow");
+        $('.wp-image-4617').toggleClass("grow");
     });
     
 });
@@ -86,7 +95,25 @@ jQuery(function($)
 {
     $('#fl-accordion-5c0185fdc1efd-tab-0').click(function ()
     {
-        $('.wp-image-3646').toggleClass("grow");
+        $('.wp-image-4628').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c4f675621b75-tab-0').click(function ()
+    {
+        $('.wp-image-4804').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5c5b439999f0c-tab-0').click(function ()
+    {
+        $('.wp-image-4809').toggleClass("grow");
     });
     
 });
