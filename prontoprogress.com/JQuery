@@ -1,3 +1,72 @@
+/* Shrink and expand images on click
+=====================================*/
+
+
+/* IOS page
+=====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5cf16156755a8-tab-0').click(function ()
+    {
+        $('.wp-image-5163').toggleClass("grow");
+    });
+    
+});
+
+
+/* Android page
+=====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5cf16102245af-tab-0').click(function ()
+    {
+        $('.wp-image-5145').toggleClass("grow");
+    });
+    
+});
+
+
+/* White Label Apps page
+=====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5cf1602ee77c6-tab-0').click(function ()
+    {
+        $('.wp-image-5126').toggleClass("grow");
+    });
+    
+});
+
+
+/* What were we thinking? page
+=====================================*/
+jQuery(function($) 
+{
+    $('#fl-accordion-5c8bf9df0f2bd-tab-0').click(function ()
+    {
+        $('.wp-image-4900').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5cab8442075fb-tab-0').click(function ()
+    {
+        $('.wp-image-5079').toggleClass("grow");
+    });
+    
+});
+
+jQuery(function($) 
+{
+    $('#fl-accordion-5cab84479c932-tab-0').click(function ()
+    {
+        $('.wp-image-5081').toggleClass("grow");
+    });
+    
+});
+
 /* GoForward page
 =====================================*/
 jQuery(function($) 
